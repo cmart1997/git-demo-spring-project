@@ -10,4 +10,16 @@ public class CognixiaApplication {
 		SpringApplication.run(CognixiaApplication.class, args);
 	}
 
+	public void doSomething() {
+		int a =1;
+		int b =1;
+		System.out.println(a+b);
+	}
+
+	public void doSomething() {
+		int a =1;
+		int b =1;
+		System.out.println(a+b);
+	}
+
 }
