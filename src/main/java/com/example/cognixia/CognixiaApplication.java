@@ -9,5 +9,4 @@ public class CognixiaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CognixiaApplication.class, args);
 	}
-
 }
