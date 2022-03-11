@@ -9,4 +9,8 @@ public class CognixiaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CognixiaApplication.class, args);
 	}
+
+	public void doSomething(){
+		return 3+7;
+	}
 }
