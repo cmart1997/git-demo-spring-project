@@ -10,7 +10,7 @@ public class CognixiaApplication {
 		SpringApplication.run(CognixiaApplication.class, args);
 	}
 
-	public void doSomething(){
-		return 3+7;
-	}
+	// public void doSomething(){
+	// 	return 3+7;
+	// }
 }
